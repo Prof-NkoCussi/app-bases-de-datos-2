@@ -65,7 +65,7 @@ Reglas fijas:
 - `indice.html` es el **índice de TPs** (antes era `index.html`). Lo que este archivo dice sobre "el índice" o "la portada con los TPs" se aplica a `indice.html`.
 - **Vista previa del enlace** (WhatsApp, Classroom): la portada, `indice.html` y cada TP llevan, después de `theme-color`, el mismo bloque de etiquetas: `og:type` (`website`), `og:locale` (`es_AR`), `og:site_name` (`Base de Datos II · Cuadernillo Digital`), `og:title`, `og:description`, `og:url`, `og:image` (`assets/img/miniatura.png` con la URL completa) con `og:image:width` 1200, `og:image:height` 630 y `og:image:alt`, y `twitter:card` (`summary_large_image`). Se copia de un TP y se cambian solo `og:title` y `og:url`.
   - `og:title`: en los TPs, igual al `<title>`: "TP N°X — nombre · Base de Datos II" (integradores: "Integrador 1 — La tienda, de nuevo · Base de Datos II"). En el índice, "Índice de TPs · Base de Datos II".
-  - `og:url`: la URL completa de la página en https://prof-nkocussi.github.io/App-Web-Base-de-Datos-2/ (ej.: `…/unidades/tp09.html`).
+  - `og:url`: la URL completa de la página en https://prof-nkocussi.github.io/app-bases-de-datos-2/ (ej.: `…/unidades/tp09.html`).
   - `og:description`: siempre "6.º año · Prof. Nicolás A. Cussi".
 
 ## Diseño
