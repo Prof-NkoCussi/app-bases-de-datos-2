@@ -1,6 +1,6 @@
 # Contenidos · Base de Datos II (6.º año)
 
-Fuente de los contenidos del cuadernillo. Manda sobre el PDF: ver la regla en `REGLAS.md`, sección "Contenido".
+Fuente de los contenidos del cuadernillo. Manda sobre el PDF: ver la regla en `docs/REGLAS.md`, sección "Contenido".
 
 ## Diseño curricular
 

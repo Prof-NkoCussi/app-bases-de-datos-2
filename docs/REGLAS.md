@@ -34,7 +34,7 @@ assets/img/              miniatura.png (1200×630): imagen de la vista previa de
 assets/datos/            archivos para descargar desde las actividades en la computadora
 CONTENIDOS.md            contenidos del diseño curricular, plan de TPs y cobertura
 README.md                presentación del sitio + tabla de TPs con su estado
-REGLAS.md                este archivo
+docs/REGLAS.md           este archivo
 ```
 
 HTML, CSS y JavaScript vanilla. Sin frameworks, sin build, sin backend, sin dependencias externas (la consola SQL se consulta antes de agregarla, ver "Pendientes").
