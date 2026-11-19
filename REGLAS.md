@@ -2,7 +2,7 @@
 
 Sitio estático que convierte la segunda parte del cuadernillo PDF "Bases de Datos y SQL · Desde cero" en TPs web, más los contenidos del diseño curricular que el PDF no trae.
 Docente: Prof. Nicolás A. Cussi · Técnico en Programación · C.T.P. "Olga B. de Arko" · Ushuaia. 5 horas cátedra semanales.
-Repo: `Prof-NkoCussi/App-Web-Base-de-Datos-2` · se publica con GitHub Pages en https://prof-nkocussi.github.io/app-bases-de-datos-2/ · los alumnos lo abren desde el celular.
+Repo: `Prof-NkoCussi/app-bases-de-datos-2` · se publica con GitHub Pages en https://prof-nkocussi.github.io/app-bases-de-datos-2/ · los alumnos lo abren desde el celular.
 Es la continuación de Base de Datos I (`Prof-NkoCussi/App-Web-Base-de-Datos-1`), de donde sale la estructura.
 
 ## Forma de trabajo
